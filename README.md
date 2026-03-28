@@ -8,7 +8,7 @@ My capstone project
 This project is a React-based web application developed as part of the TS Academy Capstone Project. It recreates a provided design using modern frontend technologies while integrating dynamic data and collaborative development practices.
 
 The application showcases information about planets in our solar system, using data fetched from an external API. It demonstrates the use of
-React components, Fetch API, responsive design, and Git collaboration workflows**.
+React components, Fetch API, responsive design, and Git collaboration workflows.
 
 
  🎯 Objectives
@@ -67,8 +67,7 @@ Ifeoma – https://www.linkedin.com/in/ifeomaokocha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-group-name/project-name.git
-   ```
+  
 
 2. Navigate into the project folder:
 
@@ -97,7 +96,7 @@ Ifeoma – https://www.linkedin.com/in/ifeomaokocha
 
  🌐 Live Deployment
 
-🔗 Live Site: 
+🔗 Live Site: https://vocal-sunshine-404e4d.netlify.app/
 
 -
 
